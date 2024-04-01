@@ -1,0 +1,4 @@
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_9, mean of samples
+PSNR	2.9914e+01
+SSIM	8.1137e-01
+NMSE	1.4979e-02

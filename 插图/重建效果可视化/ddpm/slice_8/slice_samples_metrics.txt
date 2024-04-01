@@ -1,0 +1,80 @@
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 1
+PSNR	2.7741e+01
+SSIM	7.0825e-01
+NMSE	2.9846e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 2
+PSNR	2.8014e+01
+SSIM	7.0823e-01
+NMSE	2.8027e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 3
+PSNR	2.7765e+01
+SSIM	7.0830e-01
+NMSE	2.9682e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 4
+PSNR	2.7747e+01
+SSIM	7.1047e-01
+NMSE	2.9805e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 5
+PSNR	2.7891e+01
+SSIM	7.1180e-01
+NMSE	2.8833e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 6
+PSNR	2.7702e+01
+SSIM	7.0802e-01
+NMSE	3.0113e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 7
+PSNR	2.7894e+01
+SSIM	7.1148e-01
+NMSE	2.8813e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 8
+PSNR	2.7765e+01
+SSIM	7.0991e-01
+NMSE	2.9681e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 9
+PSNR	2.7757e+01
+SSIM	7.0920e-01
+NMSE	2.9739e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 10
+PSNR	2.7744e+01
+SSIM	7.0903e-01
+NMSE	2.9826e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 11
+PSNR	2.7766e+01
+SSIM	7.0983e-01
+NMSE	2.9677e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 12
+PSNR	2.7884e+01
+SSIM	7.0828e-01
+NMSE	2.8879e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 13
+PSNR	2.7708e+01
+SSIM	7.0761e-01
+NMSE	3.0075e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 14
+PSNR	2.7892e+01
+SSIM	7.1271e-01
+NMSE	2.8824e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 15
+PSNR	2.7968e+01
+SSIM	7.1476e-01
+NMSE	2.8325e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 16
+PSNR	2.8084e+01
+SSIM	7.1205e-01
+NMSE	2.7580e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 17
+PSNR	2.7782e+01
+SSIM	7.0851e-01
+NMSE	2.9566e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 18
+PSNR	2.7581e+01
+SSIM	7.0824e-01
+NMSE	3.0964e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 19
+PSNR	2.7754e+01
+SSIM	7.0830e-01
+NMSE	2.9758e-02
+volume outputs/fastmri/mcddpm/pd4x/file1000031.h5, slice_8, sample 20
+PSNR	2.7899e+01
+SSIM	7.0946e-01
+NMSE	2.8778e-02

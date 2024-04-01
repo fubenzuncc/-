@@ -1,0 +1,218 @@
+\begin{thebibliography}{23}
+\providecommand{\natexlab}[1]{#1}
+\providecommand{\url}[1]{\texttt{#1}}
+\expandafter\ifx\csname urlstyle\endcsname\relax
+  \providecommand{\doi}[1]{doi: #1}\else
+  \providecommand{\doi}{doi: \begingroup \urlstyle{rm}\Url}\fi
+
+\bibitem[Boecking et~al.(2022)Boecking, Usuyama, Bannur, Castro, Schwaighofer,
+  Hyland, Wetscherek, Naumann, Nori, Alvarez-Valle, Poon, and
+  Oktay]{https://doi.org/10.48550/arxiv.2204.09817}
+Benedikt Boecking, Naoto Usuyama, Shruthi Bannur, Daniel~C. Castro, Anton
+  Schwaighofer, Stephanie Hyland, Maria Wetscherek, Tristan Naumann, Aditya
+  Nori, Javier Alvarez-Valle, Hoifung Poon, and Ozan Oktay.
+\newblock Making the most of text semantics to improve biomedical
+  vision--language processing, 2022.
+\newblock URL \url{https://arxiv.org/abs/2204.09817}.
+
+\bibitem[Bommasani(2021)]{foundationmodels2021}
+Rishi et~al Bommasani.
+\newblock On the opportunities and risks of foundation models, 2021.
+\newblock URL \url{https://arxiv.org/abs/2108.07258}.
+
+\bibitem[Cohen et~al.(2020)Cohen, Hashir, Brooks, and
+  Bertrand]{Cohen2020multids}
+Joseph~Paul Cohen, Mohammad Hashir, Rupert Brooks, and Hadrien Bertrand.
+\newblock On the limits of cross-domain generalization in automated x-ray
+  prediction, 2020.
+\newblock URL \url{https://arxiv.org/abs/2002.02497}.
+
+\bibitem[Cohen et~al.(2022)Cohen, Viviano, Bertin, Morrison, Torabian,
+  Guarrera, Lungren, Chaudhari, Brooks, Hashir, and Bertrand]{Cohen2022xrv}
+Joseph~Paul Cohen, Joseph~D. Viviano, Paul Bertin, Paul Morrison, Parsa
+  Torabian, Matteo Guarrera, Matthew~P Lungren, Akshay Chaudhari, Rupert
+  Brooks, Mohammad Hashir, and Hadrien Bertrand.
+\newblock {TorchXRayVision: A library of chest X-ray datasets and models}.
+\newblock In \emph{Medical Imaging with Deep Learning}, 2022.
+\newblock URL \url{https://github.com/mlmed/torchxrayvision}.
+
+\bibitem[Gal et~al.(2022)Gal, Alaluf, Atzmon, Patashnik, Bermano, Chechik, and
+  Cohen-Or]{https://doi.org/10.48550/arxiv.2208.01618}
+Rinon Gal, Yuval Alaluf, Yuval Atzmon, Or~Patashnik, Amit~H. Bermano, Gal
+  Chechik, and Daniel Cohen-Or.
+\newblock An image is worth one word: Personalizing text-to-image generation
+  using textual inversion, 2022.
+\newblock URL \url{https://arxiv.org/abs/2208.01618}.
+
+\bibitem[Gu et~al.(2022)Gu, Tinn, Cheng, Lucas, Usuyama, Liu, Naumann, Gao, and
+  Poon]{Gu_2022}
+Yu~Gu, Robert Tinn, Hao Cheng, Michael Lucas, Naoto Usuyama, Xiaodong Liu,
+  Tristan Naumann, Jianfeng Gao, and Hoifung Poon.
+\newblock Domain-specific language model pretraining for biomedical natural
+  language processing.
+\newblock \emph{{ACM} Transactions on Computing for Healthcare}, 3\penalty0
+  (1):\penalty0 1--23, jan 2022.
+\newblock \doi{10.1145/3458754}.
+\newblock URL \url{https://doi.org/10.1145%2F3458754}.
+
+\bibitem[Heusel et~al.(2017)Heusel, Ramsauer, Unterthiner, Nessler, Klambauer,
+  and Hochreiter]{heusel2017}
+Martin Heusel, Hubert Ramsauer, Thomas Unterthiner, Bernhard Nessler,
+  G{\"{u}}nter Klambauer, and Sepp Hochreiter.
+\newblock Gans trained by a two time-scale update rule converge to a nash
+  equilibrium.
+\newblock \emph{CoRR}, abs/1706.08500, 2017.
+\newblock URL \url{http://arxiv.org/abs/1706.08500}.
+
+\bibitem[Huang et~al.(2019)Huang, Altosaar, and
+  Ranganath]{https://doi.org/10.48550/arxiv.1904.05342}
+Kexin Huang, Jaan Altosaar, and Rajesh Ranganath.
+\newblock Clinicalbert: Modeling clinical notes and predicting hospital
+  readmission, 2019.
+\newblock URL \url{https://arxiv.org/abs/1904.05342}.
+
+\bibitem[Irvin et~al.(2019)Irvin, Rajpurkar, Ko, Yu, Ciurea-Ilcus, Chute,
+  Marklund, Haghgoo, Ball, Shpanskaya, Seekins, Mong, Halabi, Sandberg, Jones,
+  Larson, Langlotz, Patel, Lungren, and Ng]{irvin2019chexpert}
+Jeremy Irvin, Pranav Rajpurkar, Michael Ko, Yifan Yu, Silviana Ciurea-Ilcus,
+  Chris Chute, Henrik Marklund, Behzad Haghgoo, Robyn Ball, Katie Shpanskaya,
+  Jayne Seekins, David~A. Mong, Safwan~S. Halabi, Jesse~K. Sandberg, Ricky
+  Jones, David~B. Larson, Curtis~P. Langlotz, Bhavik~N. Patel, Matthew~P.
+  Lungren, and Andrew~Y. Ng.
+\newblock Chexpert: A large chest radiograph dataset with uncertainty labels
+  and expert comparison, 2019.
+\newblock URL \url{https://arxiv.org/abs/1901.07031}.
+
+\bibitem[Johnson et~al.(2019)Johnson, Pollard, Berkowitz, Greenbaum, Lungren,
+  ying Deng, Mark, and Horng]{Johnson2019}
+Alistair E.~W. Johnson, Tom~J. Pollard, Seth~J. Berkowitz, Nathaniel~R.
+  Greenbaum, Matthew~P. Lungren, Chih ying Deng, Roger~G. Mark, and Steven
+  Horng.
+\newblock {MIMIC}-{CXR}, a de-identified publicly available database of chest
+  radiographs with free-text reports.
+\newblock \emph{Scientific Data}, 6\penalty0 (1), December 2019.
+\newblock \doi{10.1038/s41597-019-0322-0}.
+\newblock URL \url{https://doi.org/10.1038/s41597-019-0322-0}.
+
+\bibitem[Liu et~al.(2021)Liu, Shareghi, Meng, Basaldella, and
+  Collier]{liu-etal-2021-self}
+Fangyu Liu, Ehsan Shareghi, Zaiqiao Meng, Marco Basaldella, and Nigel Collier.
+\newblock Self-alignment pretraining for biomedical entity representations.
+\newblock In \emph{Proceedings of the 2021 Conference of the North American
+  Chapter of the Association for Computational Linguistics: Human Language
+  Technologies}, pages 4228--4238, Online, June 2021. Association for
+  Computational Linguistics.
+\newblock URL \url{https://www.aclweb.org/anthology/2021.naacl-main.334}.
+
+\bibitem[Pinaya et~al.(2022)Pinaya, Tudosiu, Dafflon, da~Costa, Fernandez,
+  Nachev, Ourselin, and Cardoso]{pinaya2022ldmbrain}
+Walter H.~L. Pinaya, Petru-Daniel Tudosiu, Jessica Dafflon, Pedro~F da~Costa,
+  Virginia Fernandez, Parashkev Nachev, Sebastien Ourselin, and M.~Jorge
+  Cardoso.
+\newblock Brain imaging generation with latent diffusion models, 2022.
+\newblock URL \url{https://arxiv.org/abs/2209.07162}.
+
+\bibitem[Radford et~al.(2021{\natexlab{a}})Radford, Kim, Hallacy, Ramesh, Goh,
+  Agarwal, Sastry, Askell, Mishkin, Clark, Krueger, and Sutskever]{clip2021}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh,
+  Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark,
+  Gretchen Krueger, and Ilya Sutskever.
+\newblock Learning transferable visual models from natural language
+  supervision.
+\newblock \emph{CoRR}, abs/2103.00020, 2021{\natexlab{a}}.
+\newblock URL \url{https://arxiv.org/abs/2103.00020}.
+
+\bibitem[Radford et~al.(2021{\natexlab{b}})Radford, Kim, Hallacy, Ramesh, Goh,
+  Agarwal, Sastry, Askell, Mishkin, Clark, Krueger, and
+  Sutskever]{https://doi.org/10.48550/arxiv.2103.00020}
+Alec Radford, Jong~Wook Kim, Chris Hallacy, Aditya Ramesh, Gabriel Goh,
+  Sandhini Agarwal, Girish Sastry, Amanda Askell, Pamela Mishkin, Jack Clark,
+  Gretchen Krueger, and Ilya Sutskever.
+\newblock Learning transferable visual models from natural language
+  supervision, 2021{\natexlab{b}}.
+\newblock URL \url{https://arxiv.org/abs/2103.00020}.
+
+\bibitem[Ramesh et~al.(2022)Ramesh, Dhariwal, Nichol, Chu, and
+  Chen]{ramesh2022}
+Aditya Ramesh, Prafulla Dhariwal, Alex Nichol, Casey Chu, and Mark Chen.
+\newblock Hierarchical text-conditional image generation with clip latents,
+  2022.
+
+\bibitem[Rombach et~al.(2022)Rombach, Blattmann, Lorenz, Esser, and
+  Ommer]{Rombach2022}
+Robin Rombach, Andreas Blattmann, Dominik Lorenz, Patrick Esser, and Bjorn
+  Ommer.
+\newblock High-resolution image synthesis with latent diffusion models.
+\newblock In \emph{2022 {IEEE}/{CVF} Conference on Computer Vision and Pattern
+  Recognition ({CVPR})}. {IEEE}, June 2022.
+\newblock \doi{10.1109/cvpr52688.2022.01042}.
+\newblock URL \url{https://doi.org/10.1109/cvpr52688.2022.01042}.
+
+\bibitem[Ruiz et~al.(2022)Ruiz, Li, Jampani, Pritch, Rubinstein, and
+  Aberman]{https://doi.org/10.48550/arxiv.2208.12242}
+Nataniel Ruiz, Yuanzhen Li, Varun Jampani, Yael Pritch, Michael Rubinstein, and
+  Kfir Aberman.
+\newblock Dreambooth: Fine tuning text-to-image diffusion models for
+  subject-driven generation, 2022.
+\newblock URL \url{https://arxiv.org/abs/2208.12242}.
+
+\bibitem[Saharia et~al.(2022)Saharia, Chan, Saxena, Li, Whang, Denton,
+  Ghasemipour, Ayan, Mahdavi, Lopes, Salimans, Ho, Fleet, and
+  Norouzi]{imagen2022}
+Chitwan Saharia, William Chan, Saurabh Saxena, Lala Li, Jay Whang, Emily
+  Denton, Seyed Kamyar~Seyed Ghasemipour, Burcu~Karagol Ayan, S.~Sara Mahdavi,
+  Rapha~Gontijo Lopes, Tim Salimans, Jonathan Ho, David~J Fleet, and Mohammad
+  Norouzi.
+\newblock Photorealistic text-to-image diffusion models with deep language
+  understanding, 2022.
+\newblock URL \url{https://arxiv.org/abs/2205.11487}.
+
+\bibitem[Schuhmann et~al.(2022)Schuhmann, Beaumont, Gordon, Wightman, mehdi
+  cherti, Coombes, Katta, Mullis, Schramowski, Kundurthy, Crowson, Wortsman,
+  Vencu, Schmidt, Kaczmarczyk, and Jitsev]{schuhmann2022laionb}
+Christoph Schuhmann, Romain Beaumont, Cade~W Gordon, Ross Wightman, mehdi
+  cherti, Theo Coombes, Aarush Katta, Clayton Mullis, Patrick Schramowski,
+  Srivatsa~R Kundurthy, Katherine Crowson, Mitchell Wortsman, Richard Vencu,
+  Ludwig Schmidt, Robert Kaczmarczyk, and Jenia Jitsev.
+\newblock {LAION}-5b: An open large-scale dataset for training next generation
+  image-text models.
+\newblock In \emph{Thirty-sixth Conference on Neural Information Processing
+  Systems Datasets and Benchmarks Track}, 2022.
+\newblock URL \url{https://openreview.net/forum?id=M3Y74vmsMcY}.
+
+\bibitem[Szegedy et~al.(2015)Szegedy, Vanhoucke, Ioffe, Shlens, and
+  Wojna]{szegedy2015}
+Christian Szegedy, Vincent Vanhoucke, Sergey Ioffe, Jonathon Shlens, and
+  Zbigniew Wojna.
+\newblock Rethinking the inception architecture for computer vision.
+\newblock \emph{CoRR}, abs/1512.00567, 2015.
+\newblock URL \url{http://arxiv.org/abs/1512.00567}.
+
+\bibitem[van~der Maaten and Hinton(2008)]{JMLR:v9:vandermaaten08a}
+Laurens van~der Maaten and Geoffrey Hinton.
+\newblock Visualizing data using t-sne.
+\newblock \emph{Journal of Machine Learning Research}, 9\penalty0
+  (86):\penalty0 2579--2605, 2008.
+\newblock URL \url{http://jmlr.org/papers/v9/vandermaaten08a.html}.
+
+\bibitem[von Platen et~al.(2022)von Platen, Patil, Lozhkov, Cuenca, Lambert,
+  Rasul, Davaadorj, and Wolf]{von-platen-etal-2022-diffusers}
+Patrick von Platen, Suraj Patil, Anton Lozhkov, Pedro Cuenca, Nathan Lambert,
+  Kashif Rasul, Mishig Davaadorj, and Thomas Wolf.
+\newblock Diffusers: State-of-the-art diffusion models.
+\newblock \url{https://github.com/huggingface/diffusers}, 2022.
+
+\bibitem[Wolf et~al.(2019)Wolf, Debut, Sanh, Chaumond, Delangue, Moi, Cistac,
+  Rault, Louf, Funtowicz, Davison, Shleifer, von Platen, Ma, Jernite, Plu, Xu,
+  Scao, Gugger, Drame, Lhoest, and
+  Rush]{https://doi.org/10.48550/arxiv.1910.03771}
+Thomas Wolf, Lysandre Debut, Victor Sanh, Julien Chaumond, Clement Delangue,
+  Anthony Moi, Pierric Cistac, Tim Rault, Rémi Louf, Morgan Funtowicz, Joe
+  Davison, Sam Shleifer, Patrick von Platen, Clara Ma, Yacine Jernite, Julien
+  Plu, Canwen Xu, Teven~Le Scao, Sylvain Gugger, Mariama Drame, Quentin Lhoest,
+  and Alexander~M. Rush.
+\newblock Huggingface's transformers: State-of-the-art natural language
+  processing, 2019.
+\newblock URL \url{https://arxiv.org/abs/1910.03771}.
+
+\end{thebibliography}

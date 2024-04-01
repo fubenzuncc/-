@@ -1,0 +1,4 @@
+volume file1000031.h5, slice 9, unet output
+PSNR	2.6355e+01
+SSIM	6.2906e-01
+NMSE	3.3996e-02
